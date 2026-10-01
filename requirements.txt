@@ -1,0 +1,11 @@
+# Core runtime
+numpy>=1.24
+opencv-python>=4.8   # real face detection (Haar cascade); demo also runs without it via mock
+
+# Tests
+pytest>=7.0
+
+# Optional: real emotion models (wiring is a TODO, see emotion_guard/classifier.py)
+# fer>=22.0
+# deepface>=0.0.79
+# flask>=3.0   # only if you build a web demo around report.html

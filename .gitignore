@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Demo outputs (regenerate with `python examples/demo.py`)
+examples/output/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
