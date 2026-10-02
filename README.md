@@ -1,5 +1,10 @@
 # Emotion-Guard
 
+**[English](README.md)** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md)
+
+![Python 3.12](https://img.shields.io/badge/python-3.12-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Status: demo](https://img.shields.io/badge/status-demo_v0.1-orange)
+
+
 **Classroom emotion monitoring for kindergarten safety — catch distress before it escalates.**
 
 Emotion-Guard watches classroom mood through facial emotion signals (happy / calm / sad / angry)
